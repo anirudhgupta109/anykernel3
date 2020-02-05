@@ -10,16 +10,12 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=OnePlus7Pro
-device.name2=guacamole
-device.name3=OnePlus7
-device.name4=guacamoleb
-device.name5=OnePlus7T
-device.name6=hotdogb
-device.name7=oneplus7t
-device.name8=OnePlus7TPro
-device.name9=hotdog
-device.name10=oneplus7tpro
+device.name1=OnePlus6
+device.name2=enchilada
+device.name3=OnePlus6T
+device.name4=fajita
+device.name7=oneplus6
+device.name7=oneplus6t
 supported.versions=10
 '; } # end properties
 
