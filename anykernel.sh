@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=IllusionKernel by anirudhgupta109 @ xda-developers
+kernel.string=Unofficial NeutrinoKernel by @0ctobot built by @anirudhgupta109
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -45,4 +45,3 @@ dump_boot;
 
 write_boot;
 ## end install
-
